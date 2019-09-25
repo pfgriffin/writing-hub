@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61ceca2-205d-47f5-b3e3-bfe021905448" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignDocuments/ProjectOverview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignDocuments/Reflection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignDocuments/DevelopmentPlan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignDocuments/userstories.md" beforeDir="false" afterPath="$PROJECT_DIR$/DesignDocuments/userstories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignDocuments/userstories.md" beforeDir="false" afterPath="$PROJECT_DIR$/DesignDocuments/UserStories.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568246821161</updated>
       <workItem from="1568246826192" duration="1499000" />
-      <workItem from="1569382817390" duration="5985000" />
+      <workItem from="1569382817390" duration="6036000" />
+      <workItem from="1569450512018" duration="4055000" />
     </task>
     <servers />
   </component>
